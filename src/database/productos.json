@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"category": "Bateria",
+		"title": "MF55D23R",
+		"description": "60AH",
+		"price": 79890,
+		"thumbnail": [
+			"fotoBateria1",
+			"fotoBateria2",
+			"fotoBateria3"
+		],
+		"code": "09180",
+		"stock": 20,
+		"available": true
+	},
+	{
+		"id": 2,
+		"category": "Bateria",
+		"title": "MF55D23L",
+		"description": "60AH",
+		"price": 79890,
+		"thumbnail": [
+			"fotoBateria1",
+			"fotoBateria2",
+			"fotoBateria3"
+		],
+		"code": "09181",
+		"stock": 20,
+		"available": true
+	},
+	{
+		"id": 3,
+		"category": "Bateria",
+		"title": "MF47600",
+		"description": "60AH",
+		"price": 79890,
+		"thumbnail": [
+			"fotoBateria1",
+			"fotoBateria2",
+			"fotoBateria3"
+		],
+		"code": "09183",
+		"stock": 20,
+		"available": true
+	},
+	{
+		"id": 4,
+		"category": "Bateria",
+		"title": "MF55457",
+		"description": "55AH",
+		"price": 79890,
+		"thumbnail": [
+			"fotoBateria1",
+			"fotoBateria2",
+			"fotoBateria3"
+		],
+		"code": "09184",
+		"stock": 20,
+		"available": true
+	}
+]
